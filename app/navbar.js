@@ -4,11 +4,11 @@ const Navbar = () => {
   return (
     <nav className="bg-[#0A0A0A] p-3">
       <div className="flex items-center justify-between">
-        <div className="pl-8">
+        <div className="pl-12 pt-14">
           <img src="/fampay.png" alt="Logo" className="h-8" />
         </div>
 
-        <ul className="flex items-center space-x-20 text-1xl">
+        <ul className="flex items-center space-x-20 text-1xl pt-14 pr-10">
           <li>
             <Link href="/">Home</Link>
           </li>

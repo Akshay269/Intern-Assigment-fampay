@@ -24,24 +24,23 @@ const Rewards = () => {
           </p>
           <br />
           <div className="grid grid-cols-3 lg:grid-cols-1 gap-4 w-1/2"></div>
-          <button className="bg-[#181818] text-white p-3 rounded-md flex items-center justify-center text-2xl">
-          <img src="/rewicon1.png" alt="Icon 1" className="w-55 h-9" />
+          <button className="bg-[#181818] text-white p-3 rounded-md flex  items-center justify-center text-2xl ">
+          <img src="/rewicon1.png" alt="Icon 1" className="w-22 h-35 " />
             Exclusive giveaways of PS5, AirPods, iPhone, and more
            
           </button>
           <br />
 
           <button className="bg-[#181818] text-white p-3 rounded-md flex items-center justify-center  text-2xl">
-          <img src="/rewicon2.png" alt="Icon 1" className="w-55 h-9" />
+          <img src="/rewicon2.png" alt="Icon 1" className="w-22 h-35 " />
             Earn unlimited rewards Rewards every time you spend with FamPay
             
           </button>
           <br />
 
           <button className="bg-[#181818] text-white p-3 rounded-md flex items-center justify-center text-2xl">
-          <img src="/rewicon3.png" alt="Icon 1" className="w-55 h-9" />
+          <img src="/rewicon3.png" alt="Icon 1" className="w-22 h-35 " />
             Challenges that help you save more and earn more
-           
           </button>
         </div>
       </div>

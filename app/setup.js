@@ -5,7 +5,7 @@ const Setup = () => {
     <section className="flex items-center justify-between h-screen">
       <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between w-full mx-auto p-8">
         {/* Left Part (Image) */}
-        <div className=" w-1/2 mb-4 lg:mb-0 lg:mr-8">
+        <div className=" w-1/2 mb-4 lg:mb-0  lg:ml-8">
           <img
             src="/setup.png" // Replace with the actual path to your image
             alt="Image"
@@ -16,7 +16,7 @@ const Setup = () => {
 
         {/* Right Part (Text) */}
         <div className="w-1/2">
-          <h2 className="text-6xl font-bold mb-2">Your own UPI to make</h2>
+          <h2 className="text-6xl font-bold mb-4">Your own UPI to make</h2>
           <h2 className="text-5xl font-bold mb-4">super fast payments</h2>
 
           <br />
